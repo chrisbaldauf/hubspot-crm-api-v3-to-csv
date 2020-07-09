@@ -5,8 +5,8 @@ This is a super simple example project that will pull the first 3 `contacts`, `c
 ## Quckstart
 
 ```
-git clone ...
-cd ...
+git clone https://github.com/chrisbaldauf/hubspot-crm-api-v3-to-csv.git
+cd hubspot-crm-api-v3-to-csv
 npm install
 node app.js
 ```
@@ -45,7 +45,7 @@ Get your [HubSpot API Key](https://knowledge.hubspot.com/integrations/how-do-i-g
 $ HUBSPOT_API_KEY={YOUR_HUBSPOT_API_KEY_HERE} node app.js
 ```
 
-## Taking it further
+## Taking it further  
 
 * Increase the results per page by changing the `limit` query parameter
 * Iterate to the next page using `after` query parameter
