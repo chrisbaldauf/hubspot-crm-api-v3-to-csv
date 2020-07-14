@@ -51,3 +51,4 @@ $ HUBSPOT_API_KEY={YOUR_HUBSPOT_API_KEY_HERE} node app.js
 * Iterate to the next page using `after` query parameter
 * Alter the properties (fields) being returned using the `properties` query param
 * Read all about the v3 API in our [Developer Docs](https://developers.hubspot.com/docs/api/crm/understanding-the-crm)
+* Check out the official HubSpot [v3 API Client Library](https://www.npmjs.com/package/@hubspot/api-client)
