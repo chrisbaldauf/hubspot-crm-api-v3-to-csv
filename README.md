@@ -1,8 +1,10 @@
-# HubSpot CRM API v3 multi-object CSV
+# HubSpot CRM API v3 multi-object to CSV
 
 This is a super simple example project that will pull the first 3 `contacts`, `companies`, `deals`, and `tickets` via HubSpot's CRM v3 API from the HubSpot demo account and print the results as a CSV list.
 
-## Quckstart
+If you're serious about using these APIs, check out the HubSpot [v3 API Client Library](https://www.npmjs.com/package/@hubspot/api-client)
+
+## Quickstart
 
 ```
 git clone https://github.com/chrisbaldauf/hubspot-crm-api-v3-to-csv.git
